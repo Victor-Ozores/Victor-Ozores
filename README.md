@@ -9,7 +9,7 @@
 <!--TITULO PRINCIPAL-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23FFFFFF&size=32&duration=3000&center=true&vCenter=true&width=500&lines=Sou+Victor+%F0%9F%A4%99;Um+ser+apaixonado+por;Front-End+e+Web_designer)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23E0AA3E&size=32&duration=3000&center=true&vCenter=true&width=500&lines=Sou+Victor+%F0%9F%A4%99;Um+ser+apaixonado+por;Front-End+e+Web_designer)](#)
 
 </div>
 
@@ -26,7 +26,7 @@
 <!--SEGUNDO TITULO-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23FFFFFF&size=32&duration=4000&center=true&vCenter=true&width=600&lines=Minhas+Tecnologias+Favoritas+)<img width="70" src=https://c.tenor.com/_mmyoLZQomUAAAAi/bibipet-bibi.gif>](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23E0AA3E&size=32&duration=4000&center=true&vCenter=true&width=600&lines=Minhas+Tecnologias+Favoritas+)<img width="70" src=https://c.tenor.com/_mmyoLZQomUAAAAi/bibipet-bibi.gif>](#)
 
 </div>
 
@@ -94,7 +94,7 @@
 <!--TERCEIRO TITULO-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23FFFFFF&size=32&duration=4000&center=true&vCenter=true&width=600&lines=Meus+Contatos)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23E0AA3E&size=32&duration=4000&center=true&vCenter=true&width=600&lines=Meus+Contatos)](#)
 
 </div>
 
