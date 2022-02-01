@@ -9,7 +9,7 @@
 <!--TITULO PRINCIPAL-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23E0AA3E&size=32&duration=3000&center=true&vCenter=true&width=500&lines=Sou+Victor+%F0%9F%A4%99;Um+ser+apaixonado+por;Front-End+e+Web_designer)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23E0AA3E&size=32&duration=3000&center=true&vCenter=true&width=500&lines=Sou+Victor+%F0%9F%A4%99;Apaixonado+por;Front-End+e+Web_designer)](#)
 
 </div>
 
