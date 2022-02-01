@@ -76,7 +76,11 @@
 
 <!--BOX BOOTSTRAP-->
 
+<a href="#">
+
 <img height="50em" src="assets/bootstrap.svg">
+
+</a>
 
 </div>
 
