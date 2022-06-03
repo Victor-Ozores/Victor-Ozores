@@ -3,10 +3,11 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 <br>𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
 </div>
 
-<div align="center">
-<img  height="185px" src="https://github-readme-stats.vercel.app/api?username=Victor-Ozores&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" />
-<img  height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Ozores&layout=compact&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" />
-</div>
+<div>
+<img align="start" height="185px" src="https://github-readme-stats.vercel.app/api?username=Victor-Ozores&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" />
+ 
+<img align="right" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Ozores&layout=compact&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" />
+</div
 </br>
 
 <!--SEGUNDO TITULO-->
