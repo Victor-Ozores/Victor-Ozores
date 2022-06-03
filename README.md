@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-<img align="center" height="185px" src="https://github-readme-stats.vercel.app/api?username=Victor-Ozores&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" /> | 
-<img align="center" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Ozores&layout=compact&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" />
- </div>
+<img align="left" height="185px" src="https://github-readme-stats.vercel.app/api?username=Victor-Ozores&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" /> |
+<img align="right"height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Ozores&layout=compact&theme=buefy&hide_border=true&bg_color=FFFFFF00&text_color=E0AA3E" />
+</div>
 
 <!--SEGUNDO TITULO-->
 <h2 align="center">
